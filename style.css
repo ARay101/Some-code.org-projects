@@ -38,3 +38,16 @@ img {
     transition: transform:.2s;
     height: 600px;
 }
+
+#myCarousel img{
+    margin-top: 35px;
+    border-radius: 15%;
+}
+
+.carousel-inner{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: black;
+    font-family: cursive;
+    font-size: 2em;
+}
